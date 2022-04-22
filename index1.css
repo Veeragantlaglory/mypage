@@ -1,0 +1,112 @@
+.bixapathi{
+    height: auto;
+    width: auto;
+    border: solid blue 2px;
+    background-color: yellow;
+    
+}
+
+#glory{
+    height: 50px;
+    width: auto;
+    border: solid blue 2px;
+text-align: center;
+padding-top: 20px;
+margin: 5px;
+background-color: burlywood ;
+}
+.betu{
+    height: 100px;
+    width: auto;
+    border: solid blue 2px;
+    display: flex;
+    padding: 50px;
+    margin: 5px;
+    background-color: aquamarine;
+}
+#box1{
+    height: 80%;
+    width: auto;
+    border: solid blue 2px;
+    display: flex;
+    padding-right: 10%;
+    padding-left: 10%;
+    margin: 5px;
+    
+}
+#box2{
+    height: 80%;
+    width: auto;
+    border: solid blue 2px;
+    display: flex;
+    margin: 5px;
+    padding-right: 10%;
+    padding-left: 10%; 
+    
+
+
+}
+#box3{
+    height: 80%;
+    width: auto;
+    border: solid blue 2px;
+    margin: 5px;
+    display: flex;
+    padding-right: 10%;
+    padding-left: 10%;
+
+}
+#box4{
+    height: 80%;
+    width: auto;
+    border: solid blue 2px;
+    margin: 5px;
+    display: flex;
+    padding-right: 10%;
+    padding-left: 10%;
+    
+}
+.padma{
+    height: 150px;
+    width: auto;
+    border: solid blue 2px;
+    display: flex;
+    padding: 50px;
+    margin: 5px;
+    background-color: bisque;
+
+}
+#box5{
+    height: 100px;
+    width:70%;
+    border: solid blue 2px;
+    margin: 5px;
+    background-color: aliceblue;
+    overflow-y: auto;
+
+}
+#box6{
+    height: 100px;
+    width: auto;
+    border: solid blue 2px;
+    margin: 5px;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+#box7{
+    height: 100px;
+    width: auto;
+    border: solid blue 2px;
+    margin: 5px;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.uday{
+    height: 5px;
+    width: auto;
+    border: solid blue 2px;
+    padding: 10%;
+    margin: 5px;
+    text-align: center;
+    background-color: tomato;
+}
